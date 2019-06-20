@@ -21,13 +21,6 @@ public class MealTo {
         this.excess = excess;
     }
 
-
-
-
-    public boolean isExceed() {
-        return excess;
-    }
-
     public Integer getId() {
         return id;
     }
